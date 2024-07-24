@@ -1,6 +1,5 @@
 class MathOperation {
 
-
     sum(value1, value2) {
         return value1 + value2
     }
@@ -18,6 +17,4 @@ class MathOperation {
 }
 
 
-module.exports = {
-    MathOperation
-}
+module.exports = MathOperation
