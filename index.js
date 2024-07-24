@@ -38,7 +38,7 @@ class MathOperation {
         if (n <= 1) {
             return n;
         }
-        return fibonacci(n - 1) + fibonacci(n - 2);
+        return this.fibonacci(n - 1) + this.fibonacci(n - 2);
     }
 }
 
