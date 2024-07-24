@@ -1,6 +1,6 @@
-
-
 class MathOperation {
+
+
     sum(value1, value2) {
         return value1 + value2
     }
@@ -16,7 +16,6 @@ class MathOperation {
         return fibonacci(n - 1) + fibonacci(n - 2);
     }
 }
-
 
 
 module.exports = {
