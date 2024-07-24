@@ -8,6 +8,10 @@ class MathOperation {
         return value1 - value2
     }
 
+    divideBy(value, valueToDivide) {
+        return value / valueToDivide
+    }
+
     fibonacci(n) {
         if (n <= 1) {
             return n;
