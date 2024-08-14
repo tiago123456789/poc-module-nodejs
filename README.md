@@ -4,4 +4,4 @@ The proof of concept to test the solution to automatically generate releases for
 
 ## To commit you need to following below:
 
-- [Click to see to commit in project](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit-message-header)
+- [Click to see to commit in project](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#commit-message-header).
